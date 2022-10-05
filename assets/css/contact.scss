@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#inptll{
+    position: relative;
+    input{
+        border-radius: 8px;
+        padding: 10px;
+        border: 1px solid gray;
+    }
+}
+
+#inptll p{
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    color: brown;
+    font-weight: bold;
+}
+
+#inptllboyuk{
+    position: relative;
+    input{
+        border-radius: 8px;
+        width: 100%;
+        padding: 100px;
+        border: 1px solid gray;
+    }
+}
+
+#inptllboyuk p{
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    color: brown;
+    font-weight: bold;
+}
+
+.xerite{
+   margin-top: 30px;
+   text-align: center;
+}
+

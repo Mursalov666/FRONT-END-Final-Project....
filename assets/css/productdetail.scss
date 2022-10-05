@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boxg{
+    width: 45%;
+    margin-left: 18px;
+    img{
+        width: 100%;
+    }
+}
+
+#evrday{
+    #prdcttitle{
+        h2{
+            font-weight: bold;
+        }
+    
+        h3{
+            font-weight: bold;
+        }
+    }
+
+    hr{
+        border-top: 3px solid;
+    }
+
+    #product-meta1{
+        font-size: 18px;
+        color: blue;
+        font-weight: bold;
+    }
+}
+
+#prdctbg{
+    background-color: #F9F3F0;
+}
+
+.dropddown1{
+    display: -webkit-inline-box;
+  }
+
+  .dropddown1 {
+    position: relative;
+    display: inline-block;
+    transition: 1s;
+  }
+  
+  .contennt1 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    top: 20px !important;
+    z-index: 1;
+  }
+
+  .contennt1 h3{
+   font-size: 15px;
+   margin-top: 10px;
+  }
+  
+  .dropddown1:hover .contennt1 {
+    display: block;
+  }
+
+  .dropddown2{
+    display: -webkit-inline-box;
+  }
+
+  .dropddown2 {
+    position: relative;
+    display: inline-block;
+    transition: 1s;
+  }
+  
+  .contennt2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    top: 20px !important;
+    z-index: 1;
+  }
+
+  .contennt2 h3{
+   font-size: 15px;
+   margin-top: 10px;
+  }
+  
+  .dropddown2:hover .contennt2 {
+    display: block;
+  }
+
+  .dropddown3{
+    display: -webkit-inline-box;
+  }
+
+  .dropddown3{
+    position: relative;
+    display: inline-block;
+    transition: 1s;
+  }
+  
+  .contennt3{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    top: 20px !important;
+    z-index: 1;
+  }
+
+  .contennt3 h3{
+   font-size: 15px;
+   margin-top: 10px;
+  }
+  
+  .dropddown3:hover .contennt3 {
+    display: block;
+  }
+
+  .dropddown4{
+    display: -webkit-inline-box;
+  }
+
+  .dropddown4{
+    position: relative;
+    display: inline-block;
+    transition: 1s;
+  }
+  
+  .contennt4{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    top: 20px !important;
+    z-index: 1;
+  }
+
+  .contennt4 h3{
+   font-size: 15px;
+   margin-top: 10px;
+  }
+  
+  .dropddown4:hover .contennt4 {
+    display: block;
+  }
